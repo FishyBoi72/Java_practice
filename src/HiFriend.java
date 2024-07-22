@@ -1,8 +1,8 @@
 public class HiFriend {
 
-    public static void main(String[] args) {
-
-        System.out.println("Hi Fisher Fletemeyer!");
+    public static void main(String[] args){
+            String s="Hi"+" Fisher Fletemeyer!";
+            System.out.println(s);
     }
 }
 
